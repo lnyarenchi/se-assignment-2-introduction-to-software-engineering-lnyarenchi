@@ -11,13 +11,18 @@ Define Software Engineering:
 
 
 What is software engineering, and how does it differ from traditional programming?
+
         Software engineering differs from traditional programming in several key ways, primarily in scope, focus and methodology.
+        
         1. Scope and Scale; 
            Traditional Programming focuses on writing code to solve specific problems or tasks, often in isolation or as part of smaller projects while Software Engineering involves a broader scope that includes the entire software development lifecycle, from requirements gathering to maintenance, often dealing with large, complex systems and team-based projects.
+           
         2. Process and Methodology;
            Traditional programming is typically less formal and may not follow a structured process. The primary goal is to write code that works for a particular task. On the other hand, Software Engineering follows systematic processes and methodologies (e.g. Agile, Waterfall, DevOps)to ensure the development of high-quality software. It includes stages like requirements analysis, design, implementation, testing, deployment ant maintenance.
+           
         3. Project Management;
            Traditional Programming often lacks formal project management practices. Projects may be smaller and managed informally while Software Engineering emphasizes project management, including planning, scheduling, resource allocation, risk management, and continuous monitoring to ensure timely delivery and adherence to budgets and requirements.
+           
         4. Quality Assurance;
            Traditional Programming may involve basic testing but often lacks comprehensive quality assurance practices while Software Engineering integrates extensive quality assurance processes, including various types of testing(unit integration, system, acceptance), code reviews, and adherence to coding stanadards to ensure software reliability and performance.
 
